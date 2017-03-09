@@ -1,6 +1,5 @@
-# This is a game. I will give you 3 things. Find what they have in common. (Delete each file as you get it)
 
-A note of Death,
-A single Piece,
-Seven Balls
-
+Grab Can and place on Stove
+Heat the stove to 300F
+Open can in Bowl
+ENJOY!
